@@ -1,0 +1,17 @@
+MyJavaFileCheckRegistrar.class
+RulesList.class
+checks/NoIfStatementInTestsRule.class
+checks/AvoidBrandInMethodNamesRule.class
+checks/SecurityAnnotationMandatoryRule.class
+checks/AvoidSuperClassRule.class
+checks/MyCustomSubscriptionRule.class
+utils/PrinterVisitor.class
+checks/NoIfStatementInTestsRule$IfStatementVisitor.class
+checks/NoIfStatementInTestsRule$1.class
+checks/AvoidAnnotationRule.class
+checks/AvoidMethodDeclarationRule.class
+checks/AvoidTreeListRule.class
+MyJavaRulesPlugin.class
+MyJavaRulesDefinition.class
+utils/StringUtils.class
+checks/SpringControllerRequestMappingEntityRule.class
